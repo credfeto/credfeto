@@ -2,8 +2,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [action-yaml-format Changed tab size to 2 from 4](https://github.com/credfeto/action-yaml-format/releases/tag/v1.1.0) - 2020-10-03
-* [action-sql-format Workaround for issue with max-width and binary data being formatted incorrectly](https://github.com/credfeto/action-sql-format/releases/tag/v1.1) - 2020-05-21
+* [action-sql-format ](https://github.com/credfeto/action-sql-format/releases/tag/v1.2) - 2020-10-24
+* [action-yaml-format ](https://github.com/credfeto/action-yaml-format/releases/tag/v1.2) - 2020-10-24
 * [action-case-checker Initial version](https://github.com/credfeto/action-case-checker/releases/tag/v1.0) - 2020-05-06
 * [action-dotnet-version-detect ](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.0) - 2020-05-06
 <!-- recent_releases ends -->
