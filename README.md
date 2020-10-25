@@ -2,8 +2,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [action-dotnet-version-detect ](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.1.1) - 2020-10-25
 * [action-case-checker ](https://github.com/credfeto/action-case-checker/releases/tag/v1.1) - 2020-10-24
-* [action-dotnet-version-detect ](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.1) - 2020-10-24
 * [action-sql-format ](https://github.com/credfeto/action-sql-format/releases/tag/v1.2) - 2020-10-24
 * [action-yaml-format ](https://github.com/credfeto/action-yaml-format/releases/tag/v1.2) - 2020-10-24
 <!-- recent_releases ends -->
