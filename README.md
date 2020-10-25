@@ -2,7 +2,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [UpdatePackages Release 1.2.0.7](https://github.com/credfeto/UpdatePackages/releases/tag/v1.2.0.7) - 2020-10-25
+* [UpdatePackages Release 1.3.0.8](https://github.com/credfeto/UpdatePackages/releases/tag/v1.3.0.8) - 2020-10-25
 * [action-dotnet-version-detect ](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.1.1) - 2020-10-25
 * [nuget-multi-push Release 1.0.1.11](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.0.1.11) - 2020-10-25
 * [changelog-manager Release 1.0.0.2](https://github.com/credfeto/changelog-manager/releases/tag/v1.0.0.2) - 2020-10-25
