@@ -2,8 +2,8 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [changelog-manager Release 1.5.0.20](https://github.com/credfeto/changelog-manager/releases/tag/v1.5.0.20) - 2021-01-31
 * [nuget-multi-push Release 1.2.1.24](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.2.1.24) - 2021-01-15
-* [changelog-manager Release 1.4.0.17](https://github.com/credfeto/changelog-manager/releases/tag/v1.4.0.17) - 2020-12-28
 * [ImageLoader Release 1.0.0.2](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.0.2) - 2020-11-23
 * [UpdatePackages Release 1.4.0.9](https://github.com/credfeto/UpdatePackages/releases/tag/v1.4.0.9) - 2020-11-21
 * [action-dotnet-version-detect ](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.1.1) - 2020-10-25
