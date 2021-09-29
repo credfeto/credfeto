@@ -2,7 +2,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [UpdatePackages Release 1.7.0.0](https://github.com/credfeto/UpdatePackages/releases/tag/v1.7.0.0) - 2021-09-28
+* [UpdatePackages Release 1.7.0.15](https://github.com/credfeto/UpdatePackages/releases/tag/v1.7.0.15) - 2021-09-28
 * [nuget-multi-push Release 1.3.0.0](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.3.0.0) - 2021-06-11
 * [changelog-manager Release 1.6.0.23](https://github.com/credfeto/changelog-manager/releases/tag/v1.6.0.23) - 2021-06-03
 * [ImageLoader Release 1.0.0.2](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.0.2) - 2020-11-23
