@@ -2,11 +2,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [nuget-multi-push Release 1.4.0.27](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.4.0.27) - 2021-11-17
 * [changelog-manager Release 1.8.0.26](https://github.com/credfeto/changelog-manager/releases/tag/v1.8.0.26) - 2021-11-17
 * [urlshortener Release 0.1.2.2](https://github.com/credfeto/urlshortener/releases/tag/v0.1.2.2) - 2021-11-06
 * [ImageLoader Release 1.0.2.4](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.2.4) - 2021-11-06
 * [UpdatePackages Release 1.8.1.18](https://github.com/credfeto/UpdatePackages/releases/tag/v1.8.1.18) - 2021-11-05
-* [nuget-multi-push Release 1.3.1.26](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.3.1.26) - 2021-11-05
 <!-- recent_releases ends -->
 
 
