@@ -3,10 +3,10 @@
 ### Recent releases
 <!-- recent_releases starts -->
 * [action-case-checker Updated dependencies to remove security issues](https://github.com/credfeto/action-case-checker/releases/tag/v1.2.0) - 2021-12-20
+* [action-dotnet-version-detect Updated dependencies](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.2.0) - 2021-12-20
+* [action-sql-format Updated dependencies](https://github.com/credfeto/action-sql-format/releases/tag/v1.3.0) - 2021-12-20
+* [action-yaml-format Updated dependencies](https://github.com/credfeto/action-yaml-format/releases/tag/v1.3.0) - 2021-12-20
 * [nuget-multi-push Release 1.4.2.29](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.4.2.29) - 2021-12-17
-* [urlshortener Release 0.1.1.3](https://github.com/credfeto/urlshortener/releases/tag/v0.1.1.3) - 2021-12-01
-* [ImageLoader Release 1.0.3.5](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.3.5) - 2021-11-24
-* [changelog-manager Release 1.8.0.26](https://github.com/credfeto/changelog-manager/releases/tag/v1.8.0.26) - 2021-11-17
 <!-- recent_releases ends -->
 
 
