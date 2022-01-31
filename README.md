@@ -2,11 +2,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [ImageLoader Release 1.0.4.6](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.4.6) - 2022-01-31
 * [nuget-multi-push Release 1.4.4.31](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.4.4.31) - 2022-01-30
 * [action-case-checker Updated dependencies to remove security issues](https://github.com/credfeto/action-case-checker/releases/tag/v1.2.0) - 2021-12-20
 * [action-dotnet-version-detect Updated dependencies](https://github.com/credfeto/action-dotnet-version-detect/releases/tag/v1.2.0) - 2021-12-20
 * [action-sql-format Updated dependencies](https://github.com/credfeto/action-sql-format/releases/tag/v1.3.0) - 2021-12-20
-* [action-yaml-format Updated dependencies](https://github.com/credfeto/action-yaml-format/releases/tag/v1.3.0) - 2021-12-20
 <!-- recent_releases ends -->
 
 
