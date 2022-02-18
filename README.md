@@ -4,8 +4,8 @@
 <!-- recent_releases starts -->
 * [ImageLoader Release 1.0.9.11](https://github.com/credfeto/ImageLoader/releases/tag/v1.0.9.11) - 2022-02-18
 * [UpdatePackages Release 1.8.3.20](https://github.com/credfeto/UpdatePackages/releases/tag/v1.8.3.20) - 2022-02-18
+* [nuget-multi-push Release 1.4.9.36](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.4.9.36) - 2022-02-18
 * [changelog-manager Release 1.8.2.28](https://github.com/credfeto/changelog-manager/releases/tag/v1.8.2.28) - 2022-02-17
-* [nuget-multi-push Release 1.4.8.35](https://github.com/credfeto/nuget-multi-push/releases/tag/v1.4.8.35) - 2022-02-09
 * [action-case-checker Updated dependencies to remove security issues](https://github.com/credfeto/action-case-checker/releases/tag/v1.2.0) - 2021-12-20
 <!-- recent_releases ends -->
 
