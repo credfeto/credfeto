@@ -2,11 +2,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [credfeto-date Release 0.0.1.1](https://github.com/credfeto/credfeto-date/releases/tag/v0.0.1.1) - 2022-12-22
 * [credfeto-enum-source-generation Release 0.0.1.2](https://github.com/credfeto/credfeto-enum-source-generation/releases/tag/v0.0.1.2) - 2022-11-06
 * [action-no-ignored-files v1.1.0 - removed need for docker](https://github.com/credfeto/action-no-ignored-files/releases/tag/v1.1.0) - 2022-10-25
 * [credfeto-extensions-configuration-typed-json Release 1.0.0.1](https://github.com/credfeto/credfeto-extensions-configuration-typed-json/releases/tag/v1.0.0.1) - 2022-08-21
 * [action-repo-visibility Initial version](https://github.com/credfeto/action-repo-visibility/releases/tag/v1.0.0) - 2022-06-05
-* [notification-bot Release 0.0.1.5](https://github.com/credfeto/notification-bot/releases/tag/v0.0.1.5) - 2022-05-25
 <!-- recent_releases ends -->
 
 
