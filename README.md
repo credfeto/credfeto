@@ -2,7 +2,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [credfeto-database Release 1.0.1.3](https://github.com/credfeto/credfeto-database/releases/tag/v1.0.1.3) - 2023-01-31
+* [credfeto-database-dapper Release 1.0.1.3](https://github.com/credfeto/credfeto-database-dapper/releases/tag/v1.0.1.3) - 2023-01-31
 * [credfeto-services-startup Release 0.0.1.1](https://github.com/credfeto/credfeto-services-startup/releases/tag/v0.0.1.1) - 2023-01-20
 * [credfeto-date Release 0.0.1.1](https://github.com/credfeto/credfeto-date/releases/tag/v0.0.1.1) - 2022-12-22
 * [credfeto-extensions-linq Release 0.0.1.1](https://github.com/credfeto/credfeto-extensions-linq/releases/tag/v0.0.1.1) - 2022-12-22
