@@ -2,11 +2,11 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [scratch Release 0.0.5.201](https://github.com/credfeto/scratch/releases/tag/v0.0.5.201) - 2024-03-29
 * [credfeto-dotnet-repo-tools Release 1.0.0.39](https://github.com/credfeto/credfeto-dotnet-repo-tools/releases/tag/v1.0.0.39) - 2023-12-24
-* [funfair-build-check Release 474.0.2.31](https://github.com/funfair-tech/funfair-build-check/releases/tag/v474.0.2.31) - 2023-06-02
 * [credfeto-database-source-generator Release 0.0.1.2](https://github.com/credfeto/credfeto-database-source-generator/releases/tag/v0.0.1.2) - 2023-02-23
 * [credfeto-database-dapper Release 1.0.1.3](https://github.com/credfeto/credfeto-database-dapper/releases/tag/v1.0.1.3) - 2023-01-31
+* [credfeto-services-startup Release 0.0.1.1](https://github.com/credfeto/credfeto-services-startup/releases/tag/v0.0.1.1) - 2023-01-20
+* [credfeto-date Release 0.0.1.1](https://github.com/credfeto/credfeto-date/releases/tag/v0.0.1.1) - 2022-12-22
 <!-- recent_releases ends -->
 
 
