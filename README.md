@@ -2,7 +2,7 @@
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [credfeto-versioninfo Release 1.0.0.7](https://github.com/credfeto/credfeto-versioninfo/releases/tag/v1.0.0.7) - 2024-10-16
+* [credfeto-version-constants-generator Release 1.0.0.7](https://github.com/credfeto/credfeto-version-constants-generator/releases/tag/v1.0.0.7) - 2024-10-16
 * [scratch Release 0.0.5.201](https://github.com/credfeto/scratch/releases/tag/v0.0.5.201) - 2024-03-29
 * [credfeto-dotnet-repo-tools Release 1.0.0.39](https://github.com/credfeto/credfeto-dotnet-repo-tools/releases/tag/v1.0.0.39) - 2023-12-24
 * [funfair-build-check Release 474.0.2.31](https://github.com/funfair-tech/funfair-build-check/releases/tag/v474.0.2.31) - 2023-06-02
