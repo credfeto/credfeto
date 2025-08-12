@@ -4,9 +4,7 @@
 <!-- recent_releases starts -->
 * [credfeto-tsql-format Release 0.1.0.9](https://github.com/credfeto/credfeto-tsql-format/releases/tag/v0.1.0.9) - 2025-07-03
 * [credfeto-cache-proxy Release 0.0.1.71](https://github.com/credfeto/credfeto-cache-proxy/releases/tag/v0.0.1.71) - 2025-05-22
-* [credfeto-nuget-proxy Release 0.0.5.161](https://github.com/credfeto/credfeto-nuget-proxy/releases/tag/v0.0.5.161) - 2025-03-24
 * [credfeto-docker-http-healthcheck-client Release 0.0.1.3](https://github.com/credfeto/credfeto-docker-http-healthcheck-client/releases/tag/v0.0.1.3) - 2025-03-21
-* [credfeto-version-constants-generator Release 1.0.0.7](https://github.com/credfeto/credfeto-version-constants-generator/releases/tag/v1.0.0.7) - 2024-10-16
 <!-- recent_releases ends -->
 
 
