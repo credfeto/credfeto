@@ -66,7 +66,7 @@ jobs:
 
       - name: "Checkout Source"
         if: (github.actor != 'dependabot[bot]' && !endsWith(github.repository , '-template'))
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 0
@@ -104,7 +104,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
@@ -164,7 +164,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 0
@@ -202,7 +202,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
@@ -235,7 +235,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
@@ -270,7 +270,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
@@ -314,7 +314,7 @@ jobs:
 
       - name: "Checkout Source"
         if: steps.visibility.outputs.is_public == 'true'
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 0
@@ -355,7 +355,7 @@ jobs:
         run: sudo chown -R "$USER:$USER" "$GITHUB_WORKSPACE"
 
       - name: "Checkout"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
@@ -392,7 +392,7 @@ jobs:
           } >> "$GITHUB_ENV"
 
       - name: "Checkout Source"
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           clean: true
           fetch-depth: 1
