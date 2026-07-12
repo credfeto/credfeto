@@ -1,6 +1,9 @@
+# credfeto
+
 <!-- ### Hi there 👋 -->
 
-### Recent releases
+## Recent releases
+
 <!-- recent_releases starts -->
 * [credfeto-dispatcher Release 0.0.1.138](https://github.com/credfeto/credfeto-dispatcher/releases/tag/v0.0.1.138) - 2026-05-01
 * [credfeto-local-aur-cache Release 0.0.1.26](https://github.com/credfeto/credfeto-local-aur-cache/releases/tag/v0.0.1.26) - 2025-08-26
@@ -8,7 +11,6 @@
 * [credfeto-tsql-format Release 0.1.0.9](https://github.com/credfeto/credfeto-tsql-format/releases/tag/v0.1.0.9) - 2025-07-03
 * [credfeto-cache-proxy Release 0.0.1.71](https://github.com/credfeto/credfeto-cache-proxy/releases/tag/v0.0.1.71) - 2025-05-22
 <!-- recent_releases ends -->
-
 
 <!--
 **credfeto/credfeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
