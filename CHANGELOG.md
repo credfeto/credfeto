@@ -10,7 +10,7 @@ Please ADD ALL Changes to the UNRELASED SECTION and not a specific release
 
 ## [Unreleased]
 ### Security
-- TBD - to be finalized after review
+- Pinned GitHub Actions used in build.yml (actions/checkout, actions/setup-python, actions/cache) to immutable commit SHAs instead of mutable version tags, preventing a repointed or compromised tag from silently running different code
 ### Added
 ### Fixed
 - Fixed YAML linting errors in build.yml: added document start marker, corrected indentation, removed extra whitespace, quoted python-version, reordered step fields, added shell: bash to all run steps, and updated action versions to specific release tags
